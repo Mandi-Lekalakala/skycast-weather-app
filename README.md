@@ -1,36 +1,63 @@
-## SkyCast Weather App
+# SkyCast – Weather App
 
-## Project Overview:
+SkyCast is a weather application built with vanilla JavaScript, HTML and CSS. Users can search any city and instantly see real-time weather data retrieved from an external API — including current conditions, a 5-day forecast, humidity, wind speed and more.
 
-This is a weather application built using vanilla JavaScript, HTML, and CSS. The app allows users to search for a city and view real-time weather information retrieved from an external API, including current conditions and forecasts.
-The project focuses on JavaScript fundamentals, API integration, asynchronous data handling, and dynamic updates to the user interface.
+🔗 **Live Site:** https://mandi-lekalakala.github.io/skycast-weather-app/
 
+![SkyCast Weather App](images/myvanillaweatherapp.png)
 
-## Technologies Used:
+---
 
-- HTML/CSS
-- JavaScript (Vanilla)
-- External Weather API
- 
-## Key Features: 
+## Features
+
 - Search weather data by city name
 - Displays current temperature and weather conditions
-- Multi-day weather forecast
-- Anmated weather icons
-- Shows additional details such as humidity and wind speed
+- 5-day weather forecast
+- Animated weather icons
+- Humidity and wind speed details
 - Dynamic DOM updates based on API responses
 - Asynchronous API calls using fetch / async-await
 - Responsive, user-friendly interface
- 
-## What I Learned:
- 
+
+---
+
+## Preview
+
+![Cape Town Search](images/cape-town-search.png)
+![Mbombela Search](images/mbombela-search.png)
+
+---
+
+## Built With
+
+- HTML5
+- CSS3
+- Vanilla JavaScript
+- Axios
+- SheCodes Weather API
+
+---
+
+## What I Learned
+
 - Integrating and working with external APIs
 - Handling asynchronous JavaScript logic
-- Updating the DOM dynamically based on API data
-- structuring JavaScript for clarity and maintainability
-- Debugging API responses and user input errors
- 
-## Notes:
+- Updating the DOM dynamically based on API responses
+- Structuring JavaScript for clarity and maintainability
+- Debugging API responses and handling user input errors
 
-This project was built to strengthen front-end development skills and demonstrate practical use of JavaScript, APIs, and responsive UI design.
+---
+
+## Current Limitations
+
+- Currently optimised for desktop only
+
+---
+
+## Future Improvements
+
+- Mobile responsive layout
+- Geolocation support to detect current city automatically
+- Toggle between Celsius and Fahrenheit
+- Add hourly forecast view
   
