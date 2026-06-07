@@ -1,6 +1,6 @@
 # SkyCast – Weather App
 
-SkyCast is a weather application built with JavaScript, HTML and CSS. Users can search any city and instantly see real-time weather data retrieved from an external API — including current conditions, a 5-day forecast, humidity, wind speed and more.
+SkyCast is a desktop weather application built with JavaScript, HTML and CSS. Users can search any city and instantly see real-time weather data retrieved from an external API — including current conditions, a 5-day forecast, humidity, wind speed and more.
 
 🔗 **Live Site:** https://mandi-lekalakala.github.io/skycast-weather-app/
 
